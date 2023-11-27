@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
-# tic-tac-toe initialization
+
 root = Tk()
 root.title('Codemy.com - Tic-Tac-Toe')
 root.iconbitmap('c:/gui/codemy.ico')
